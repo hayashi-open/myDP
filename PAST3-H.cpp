@@ -1,4 +1,10 @@
-/* https://atcoder.jp/contests/past202005-2/tasks/past202005_h */
+/* 
+
+AtCoder 第三回アルゴリズム実技検定 問題H
+
+https://past.atcoder.jp/ 参照（問題の閲覧にはAtCoderで要ログイン）
+
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
