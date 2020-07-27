@@ -1,4 +1,7 @@
-/* 編集距離 */
+/*
+編集距離
+https://onlinejudge.u-aizu.ac.jp/courses/library/7/DPL/1/DPL_1_E
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
